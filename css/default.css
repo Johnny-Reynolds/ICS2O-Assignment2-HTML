@@ -1,0 +1,14 @@
+body {
+  background-color:white;
+}
+h1 {
+  background-color: black;
+  color: white;
+  padding: 30px;
+  text-align: left;
+}
+div {
+  background-color:black;
+  color:white;
+  padding:20px;
+}
